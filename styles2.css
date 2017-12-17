@@ -1,0 +1,20 @@
+A
+{
+    font-size: 8pt;
+    color: #000099;
+    font-family: arial, tahoma, sans-serif;
+    text-decoration: none;
+}
+A:hover 	{text-decoration:underline}
+TD {
+	FONT-SIZE: 8pt; FONT-FAMILY: arial, tahoma, sans-serif
+}
+DIV {
+	FONT-SIZE: 8pt; FONT-FAMILY: arial, tahoma, sans-serif
+}
+SPAN {
+	FONT-SIZE: 8pt; FONT-FAMILY: arial, tahoma, sans-serif
+}
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}

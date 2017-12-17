@@ -1,0 +1,7 @@
+body, html, td, th, p { font-family: Tahoma; background-color: darkblue; color:white }
+.thd         { text-align: center; background-color: #CCCCCC; }
+th           { border:1px solid #000000; background-color:#CCCCCC }
+.hdlin       { font-size: 150%; font-weight:bold; }
+.err         { color: #FF0000; font-weight:bold; }
+.msg         { color: #009900; font-weight:bold; }
+.small       { font-size: 75%; }

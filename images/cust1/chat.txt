@@ -1,0 +1,35 @@
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[entered]</i>
+hi
+hello
+you are gorgeous!
+thank you! you too.
+<i>[exited]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>
+<i>[exited]</i>
+<i>[entered]</i>

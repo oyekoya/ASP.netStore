@@ -1,0 +1,13 @@
+td {  font-family: Tahoma; font-size: 8pt; font-style: normal}
+
+.seperator { font-family: Tahoma; font-size: 8pt; font-style: normal; text-decoration: none; border-color: #003366 #e0e0e0 #003366 #003366; border-style: inset; color: #FFFFFF}
+
+A {  TEXT-DECORATION: none }
+
+A.menu {  COLOR: #ffffff; }
+
+a:hover { text-decoration: underline;}
+
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}

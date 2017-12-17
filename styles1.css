@@ -1,0 +1,48 @@
+A IMG {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BORDER-LEFT: medium none; BORDER-BOTTOM: medium none
+}
+HR {
+	HEIGHT: 1px
+}
+BODY {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+DIV {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+SPAN {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+P {
+	FONT-FAMILY: Arial, Tahoma, sans-serif; font-style: normal; word-spacing: normal; text-decoration: none
+}
+.smallfont
+{
+    font-size: 8pt;
+    font-family: arial, tahoma, sans-serif;
+}
+UL {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+LI {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+TD {
+	FONT-FAMILY: Arial, Tahoma, sans-serif
+}
+BODY {
+	MARGIN: 0px 0px 0px 3px
+}
+LI {
+	MARGIN: 0px 0px 1px
+}
+UL {
+	LIST-STYLE-POSITION: outside; MARGIN: -2px 0px 0px 8px
+}
+FORM {
+	MARGIN: 0px
+}
+@font-face {
+	font-family: englishfont;
+	src: url(English.ttf);
+}
